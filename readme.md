@@ -1,14 +1,14 @@
 Implementujte rezervační systém pro lety do vesmíru.
 
 Požadavky:
-D Uživatel se může registrovat a přihlásit.
-D Zákazník může vytvářet nové rezervace na lety.
-D Každá rezervace se vytváří na vybraný den a čas ze seznamu odletů.
-D Zákazník může zrušit rezervaci.
+- D Uživatel se může registrovat a přihlásit.
+- D Zákazník může vytvářet nové rezervace na lety.
+- D Každá rezervace se vytváří na vybraný den a čas ze seznamu odletů.
+- D Zákazník může zrušit rezervaci.
 - Do jedné rezervace je možné přidat více osob.
-D Sekrétářka může sledovat aktuální rezervace.
+- D Sekrétářka může sledovat aktuální rezervace.
 - Sekretářka může přesouvat lidi mezi lety.
-D Technik zadává do systému odlety raket a kapacitu.
+- D Technik zadává do systému odlety raket a kapacitu.
 - Technik také zadává informace o průběhu letu.
 - Zákazník může v reálném čase sledovat aktuální stav letů u jeho rezervací.
 - Zákazník je prostřednictvím notifikačního centra informován o změnách a problémech.
