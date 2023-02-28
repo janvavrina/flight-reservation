@@ -1,0 +1,30 @@
+### Success login
+
+POST http://localhost:3000/user/login
+Content-Type: application/json
+
+{
+  "username": "hanz",
+  "password": "heslo123"
+}
+
+### Failed login
+
+POST http://localhost:3000/user/login
+Content-Type: application/json
+
+{
+  "username": "hanz",
+  "password": "heslo"
+}
+
+### Register
+
+POST http://localhost:3000/user/register
+Content-Type: application/json
+
+{
+  "username": "hanz",
+  "password": "heslo123",
+  "role": "pepik"
+}

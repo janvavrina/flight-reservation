@@ -1,0 +1,7 @@
+POST http://localhost:3000/flights/1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MiwidXNlcm5hbWUiOiJoYW56Iiwicm9sZSI6InJvbGUiLCJpYXQiOjE2NTUxNTI3NzF9.Jry4YBvfCMb_tDQYRVh5HjBa-i2jaDRBZUh2at3PuW0
+
+{
+
+}

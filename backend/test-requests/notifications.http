@@ -1,0 +1,15 @@
+GET http://localhost:3000/notifications
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MiwidXNlcm5hbWUiOiJ0ZWNobmlrIiwicm9sZSI6InRlY2huaWsiLCJpYXQiOjE2NTU5ODQzMjB9.RWt-AAEdFZrU78ySo0kTwppbsuvLl97bxy2u080TItA
+
+{
+
+}
+###
+GET http://localhost:3000/notifications/users
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MiwidXNlcm5hbWUiOiJ0ZWNobmlrIiwicm9sZSI6InRlY2huaWsiLCJpYXQiOjE2NTU5ODQzMjB9.RWt-AAEdFZrU78ySo0kTwppbsuvLl97bxy2u080TItA
+
+{
+
+}
